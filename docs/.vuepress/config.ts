@@ -20,8 +20,8 @@ module.exports = {
         lastUpdatedText: 'Mis à jour le',
         contributorsText: "Contributeurs",
         navbar: [
-            { text: 'GitHub', link: 'https://github.com/TheOtherRolesAU/TheOtherRoles' },
-            { text: 'Documentation', link: 'https://among-us.fandom.com/wiki/Mod:The_Other_Roles' },
+            { text: 'GitHub TheOtherRoles', link: 'https://github.com/TheOtherRolesAU/TheOtherRoles' },
+            { text: 'Documentation TheOtherRoles', link: 'https://among-us.fandom.com/wiki/Mod:The_Other_Roles' },
             { text: 'Télécharger BetterCrewLink', link: 'https://github.com/OhMyGuus/BetterCrewLink/releases/download/v3.1.2/Better-CrewLink-Setup-3.1.2.exe' }
         ],
         sidebar: [
