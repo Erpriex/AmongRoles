@@ -21,7 +21,8 @@ module.exports = {
         contributorsText: "Contributeurs",
         navbar: [
             { text: 'GitHub', link: 'https://github.com/TheOtherRolesAU/TheOtherRoles' },
-            { text: 'Documentation', link: 'https://among-us.fandom.com/wiki/Mod:The_Other_Roles' }
+            { text: 'Documentation', link: 'https://among-us.fandom.com/wiki/Mod:The_Other_Roles' },
+            { text: 'Télécharger BetterCrewLink', link: 'https://github.com/OhMyGuus/BetterCrewLink/releases/download/v3.1.2/Better-CrewLink-Setup-3.1.2.exe' }
         ],
         sidebar: [
             { link: "/README.md", text: "Introduction" },
@@ -30,11 +31,25 @@ module.exports = {
                 collapsible: true,
                 children: [
                     { text: 'Bounty Hunter / Chasseur de primes', link: '/impostors/bountyHunter.md' },
-                    { text: 'Camouflager / Camoufleur', link: '/impostors/camouflager.md' }
+                    { text: 'Camouflager / Camoufleur', link: '/impostors/camouflager.md' },
+                    { text: 'Ninja', link: '/impostors/ninja.md' },
+                    { text: 'Cleaner / Nettoyeur', link: '/impostors/cleaner.md' },
+                    { text: 'Shapeshifter', link: '/impostors/shapeshifter.md' },
+                    {
+                        text: "Mafias",
+                        collapsible: false,
+                        children: [
+                            { text: "Godfather / Parrain", link: "/impostors/mafias/godfather.md" },
+                            { text: "Mafioso", link: "/impostors/mafias/mafioso.md" },
+                            { text: "Janitor / Concierge", link: "/impostors/mafias/janitor.md" }
+                        ]
+                    },
+                    { text: 'Morphling', link: '/impostors/morphling.md' },
+                    { text: 'Trickster / Farceur', link: '/impostors/trickster.md' },
                 ]
             },
             {
-                text: "Crewmate",
+                text: "Crewmates",
                 collapsible: true,
                 children: [
                     
