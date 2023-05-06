@@ -1,4 +1,4 @@
-# Evil Guesser / Mauvais Devin
+# Nice Guesser / Bon Devin
 
 ## Objectif
 

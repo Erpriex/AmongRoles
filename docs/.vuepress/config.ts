@@ -57,7 +57,12 @@ module.exports = {
                 text: "Crewmates",
                 collapsible: true,
                 children: [
-                    
+                    { text: 'Nice Guesser / Bon Devin', link: '/crewmates/niceGuesser.md' },
+                    { text: 'Detective', link: '/crewmates/detective.md' },
+                    { text: 'Engineer / Ingénieur', link: '/crewmates/engineer.md' },
+                    { text: 'Hacker', link: '/crewmates/hacker.md' },
+                    { text: 'Lighter / Eclaireur', link: '/crewmates/lighter.md' },
+                    { text: 'Mayor / Maire', link: '/crewmates/mayor.md' },
                 ]
             },
             {
