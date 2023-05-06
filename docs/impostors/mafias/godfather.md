@@ -1,12 +1,12 @@
-# Maria > Godfather / Parrain
+# Mafia > Godfather / Parrain
 
-## Description
+## Objectif
 
 Tuer tous les membres de l'équipage
 
 Kill all Crewmates
 
-## Documentation
+## Description
 
 Le Parrain fonctionne comme un imposteur normal et sabote normalement.
 

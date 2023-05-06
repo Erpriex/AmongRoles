@@ -30,10 +30,12 @@ module.exports = {
                 text: "Imposteurs",
                 collapsible: true,
                 children: [
+                    { text: 'Evil Guesser / Mauvais Devin', link: '/impostors/evilGuesser.md' },
                     { text: 'Bounty Hunter / Chasseur de primes', link: '/impostors/bountyHunter.md' },
                     { text: 'Camouflager / Camoufleur', link: '/impostors/camouflager.md' },
                     { text: 'Ninja', link: '/impostors/ninja.md' },
                     { text: 'Cleaner / Nettoyeur', link: '/impostors/cleaner.md' },
+                    { text: 'Eraser / Effaceur', link: '/impostors/eraser.md' },
                     { text: 'Shapeshifter', link: '/impostors/shapeshifter.md' },
                     {
                         text: "Mafias",
@@ -46,6 +48,9 @@ module.exports = {
                     },
                     { text: 'Morphling', link: '/impostors/morphling.md' },
                     { text: 'Trickster / Farceur', link: '/impostors/trickster.md' },
+                    { text: 'Vampire', link: '/impostors/vampire.md' },
+                    { text: 'Warlock / Ensorceleur', link: '/impostors/warlock.md' },
+                    { text: 'Witch / Socière', link: '/impostors/witch.md' }
                 ]
             },
             {

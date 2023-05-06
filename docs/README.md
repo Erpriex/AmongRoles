@@ -1,3 +1,3 @@
 # AmongRoles
 
-TODO
+On remercie ChatGPT pour les traductions 🙏

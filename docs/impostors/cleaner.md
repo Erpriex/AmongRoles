@@ -1,12 +1,12 @@
 # Cleaner / Nettoyeur
 
-## Description
+## Objectif
 
 Tuer tout le monde et ne laisser aucune trace
 
 Kill everyone and leave no traces
 
-## Documentation
+## Description
 
 Le Cleaner est un imposteur qui a la capacité de nettoyer les corps morts.
 

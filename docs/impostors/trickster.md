@@ -1,12 +1,12 @@
 # Trickster / Farceur
 
-## Description
+## Objectif
 
 Utiliser vos boîtes à surprises pour surprendre les autres
 
 Use your jack-in-the-boxes to surprise others
 
-## Documentation
+## Description
 
 Le Farceur est un Imposteur qui peut placer 3 boîtes à musique invisibles pour les autres joueurs. Si le Trickster a placé toutes ses boîtes, il pourra les convertir en réseau de conduits d'aération qu'il pourra utiliser seul. Cependant, les boîtes seront alors révélées aux autres joueurs. Si les boîtes sont converties en réseau de conduits d'aération, le Farceur obtient une nouvelle capacité "Lumières éteintes" pour limiter la visibilité des Non-Imposteurs, ce qui ne peut pas être réparé par les autres joueurs. Les lumières sont automatiquement restaurées après un certain temps.
 

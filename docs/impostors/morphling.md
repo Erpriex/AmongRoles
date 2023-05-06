@@ -1,12 +1,12 @@
 # Morphling
 
-## Description
+## Objectif
 
 Changer d'apparence pour ne pas être repéré
 
 Change your look to not get caught
 
-## Documentation
+## Description
 
 Le Morphling est un imposteur qui peut scanner l'apparence d'un joueur. Après un certain temps, il peut prendre cette apparence pendant 10 secondes. Il fonctionne comme le [Shapeshifter](/impostors/shapeshifter.md).
 
