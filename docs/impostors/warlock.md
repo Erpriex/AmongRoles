@@ -1,15 +1,49 @@
-# Warlock / Ensorceleur
+# Sorcier — Warlock
 
-## Objectif
+## Français
 
-Maudire les autres joueurs et tuer tout le monde
+### Description
 
-Curse other players and kill everyone
+Le Sorcier est un imposteur, qui peut maudire un autre joueur (le joueur maudit n'est pas averti).<br>
+Si la personne maudite se tient à côté d'un autre joueur, le Sorcier est capable de tuer ce joueur (quelle que soit sa distance).<br>
+Effectuer une mise à mort avec l'aide d'un joueur maudit lèvera la malédiction et empêchera le Sorcier de bouger pendant un laps de temps configurable.<br>
+Le Sorcier peut toujours effectuer des éliminations normales, mais les deux boutons partagent le même temps de recharge.
 
-## Description
+### Remarques
 
-L'Ensorceleur est un Imposteur qui peut maudire un autre joueur (le joueur maudit n'est pas notifié). Si la personne maudite se tient à côté d'un autre joueur, l'Ensorceleur peut tuer ce joueur (peu importe où il se trouve). Tuer un joueur avec l'aide d'un joueur maudit lèvera la malédiction et empêchera l'Ensorceleur de se déplacer pendant une durée configurable. L'Ensorceleur peut toujours effectuer des meurtres normaux, mais les deux boutons partagent le même temps de recharge. <br>
-Il existe une version alternative du Warlock où s'ils maudissent un joueur, alors la transformation de leur apparence provoque la mort du joueur maudit le plus proche d'eux.
+* Le Sorcier peut toujours tuer ses compagnons imposteurs (et même lui-même) en utilisant le "tueur maudit"
+* S'il y a un Sorcier dans le jeu, il ne peut pas y avoir de vampire
+* Effectuer une mise à mort normale, ne lève pas la malédiction
 
-The Warlock is an Impostor, that can curse another player (the cursed player doesn't get notified). If the cursed person stands next to another player, the Warlock is able to kill that player (no matter how far away they are). Performing a kill with the help of a cursed player, will lift the curse and it will result in the Warlock being unable to move for a configurable amount of time. The Warlock can still perform normal kills, but the two buttons share the same cooldown. <br>
-There is an alternate version of the Warlock where if they curse a player, then shapeshifting causes that cursed player to kill the nearest player to them.
+### Options de jeu
+
+| Nom | Description |
+| -------------- | --------------------- |
+| Warlock Spawn Chance  | - |
+| Warlock Cooldown | Cooldown pour utiliser la Malédition et le Kill Maudit |
+| Warlock Root Time | Temps pendant lequel le Sorcier est enraciné après avoir tué en utilisant la malédiction |
+
+<br><br>
+
+## English
+
+### Description
+
+The Warlock is an Impostor, that can curse another player (the cursed player doesn't get notified).<br>
+If the cursed person stands next to another player, the Warlock is able to kill that player (no matter how far away they are).<br>
+Performing a kill with the help of a cursed player, will lift the curse and it will result in the Warlock being unable to move for a configurable amount of time.<br>
+The Warlock can still perform normal kills, but the two buttons share the same cooldown.
+
+### Notes
+
+* The Warlock can always kill their Impostor mates (and even themself) using the "cursed kill"
+* If there is a Warlock in the game, there can't be a Vampire
+* Performing a normal kill, doesn't lift the curse
+
+### Game options
+
+| Name | Description |
+| -------------- | --------------------- |
+| Warlock Spawn Chance  | - |
+| Warlock Cooldown | Cooldown for using the Curse and curse Kill |
+| Warlock Root Time | Time the Warlock is rooted in place after killing using the curse |

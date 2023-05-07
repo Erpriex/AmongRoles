@@ -4,7 +4,11 @@ import { searchPlugin } from '@vuepress/plugin-search';
 module.exports = {
     lang: 'fr-FR',
     title: 'AmongRoles',
-    description: '',
+    description: 'Documentation française et anglaise du mod TheOtherRoles pour le jeu Among Us',
+
+    head: [
+        ['meta', { name: 'theme-color', content: '#3aa675' }]
+    ],
 
     plugins: [
         searchPlugin({
@@ -30,39 +34,26 @@ module.exports = {
                 text: "Imposteurs",
                 collapsible: true,
                 children: [
-                    { text: 'Evil Guesser / Mauvais Devin', link: '/impostors/evilGuesser.md' },
-                    { text: 'Bounty Hunter / Chasseur de primes', link: '/impostors/bountyHunter.md' },
-                    { text: 'Camouflager / Camoufleur', link: '/impostors/camouflager.md' },
-                    { text: 'Ninja', link: '/impostors/ninja.md' },
-                    { text: 'Cleaner / Nettoyeur', link: '/impostors/cleaner.md' },
-                    { text: 'Eraser / Effaceur', link: '/impostors/eraser.md' },
-                    { text: 'Shapeshifter', link: '/impostors/shapeshifter.md' },
-                    {
-                        text: "Mafias",
-                        collapsible: false,
-                        children: [
-                            { text: "Godfather / Parrain", link: "/impostors/mafias/godfather.md" },
-                            { text: "Mafioso", link: "/impostors/mafias/mafioso.md" },
-                            { text: "Janitor / Concierge", link: "/impostors/mafias/janitor.md" }
-                        ]
-                    },
+                    { text: 'Mafias', link: '/impostors/mafias.md' },
                     { text: 'Morphling', link: '/impostors/morphling.md' },
-                    { text: 'Trickster / Farceur', link: '/impostors/trickster.md' },
+                    { text: 'Camoufleur — Camouflager', link: '/impostors/camouflager.md' },
                     { text: 'Vampire', link: '/impostors/vampire.md' },
-                    { text: 'Warlock / Ensorceleur', link: '/impostors/warlock.md' },
-                    { text: 'Witch / Socière', link: '/impostors/witch.md' }
+                    { text: 'Effaceur — Eraser', link: '/impostors/eraser.md' },
+                    { text: 'Filou — Trickster', link: '/impostors/trickster.md' },
+                    { text: 'Nettoyeur — Cleaner', link: '/impostors/cleaner.md' },
+                    { text: 'Sorcier — Warlock', link: '/impostors/warlock.md' },
+                    { text: 'Mandalorian — Bounty Hunter', link: '/impostors/bounty-hunter.md' },
+                    { text: 'Sorcière — Witch', link: '/impostors/witch.md' },
+                    { text: 'Ninja', link: '/impostors/ninja.md' },
+                    { text: 'Bombardier — Bomber', link: '/impostors/bomber.md' },
+                    { text: 'Devin — Guesser', link: '/guesser.md' },
                 ]
             },
             {
                 text: "Crewmates",
                 collapsible: true,
                 children: [
-                    { text: 'Nice Guesser / Bon Devin', link: '/crewmates/niceGuesser.md' },
-                    { text: 'Detective', link: '/crewmates/detective.md' },
-                    { text: 'Engineer / Ingénieur', link: '/crewmates/engineer.md' },
-                    { text: 'Hacker', link: '/crewmates/hacker.md' },
-                    { text: 'Lighter / Eclaireur', link: '/crewmates/lighter.md' },
-                    { text: 'Mayor / Maire', link: '/crewmates/mayor.md' },
+                    
                 ]
             },
             {
@@ -73,7 +64,7 @@ module.exports = {
                 ]
             },
             {
-                text: "Secondaires",
+                text: "Modificateurs",
                 collapsible: true,
                 children: [
                     
