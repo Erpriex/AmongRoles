@@ -20,6 +20,6 @@ Documentation pour la version `4.3.1` du mod
 * [TheOtherRolesFR](https://github.com/omega7711/TheOtherRolesFR)
 * [ChatGPT](https://chat.openai.com) qu'on remercie pour les traductions manquantes 🙏
 
-<br><br>
+<br>
 
 > [GitHub](https://github.com/Erpriex/AmongRoles)

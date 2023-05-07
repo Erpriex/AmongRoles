@@ -53,7 +53,14 @@ module.exports = {
                 text: "Crewmates",
                 collapsible: true,
                 children: [
-                    
+                    { text: 'Maire — Mayor', link: '/crewmates/mayor.md' },
+                    { text: 'Ingénieur — Engineer', link: '/crewmates/engineer.md' },
+                    { text: 'Shérif — Sheriff', link: '/crewmates/sheriff.md' },
+                    { text: 'Adjoint — Deputy', link: '/crewmates/deputy.md' },
+                    { text: 'Eclaireur — Lighter', link: '/crewmates/lighter.md' },
+                    { text: 'Detective', link: '/crewmates/detective.md' },
+                    { text: 'Maître du Temps — Time Master', link: '/crewmates/time-master.md' },
+                    { text: 'Médecin — Medic', link: '/crewmates/medic.md' },
                 ]
             },
             {
