@@ -1,15 +1,20 @@
 # AmongRoles
 
 ::: warning Work in progresss...
-Cette documentation est actuellement en cours de rédaction. Des informations sont manquantes et les textes n'ont pas été soumis à une relecture.
+Cette documentation est actuellement en cours de rédaction, certaines informations sont manquantes.
 :::
 
 <br>
 
-Cette documentation a pour objectif de rendre plus accessible la documentation du mod [TheOtherRoles](https://among-us.fandom.com/wiki/Mod:The_Other_Roles) pour le jeu Among Us.
+Cette documentation est une retranscription du wiki du mod [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) pour le jeu Among Us.<br>
+Elle a pour objectif de rendre la navigation plus accessible en combinant notamment une traduction française et la version originale.
 
-On remercie ChatGPT pour les traductions 🙏
+## Sources
 
-<br>
+* [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles)
+* [TheOtherRolesFR](https://github.com/omega7711/TheOtherRolesFR)
+* [ChatGPT](https://chat.openai.com) qu'on remercie pour les traductions manquantes 🙏
 
-> Le projet est ouvert à toutes contributions sur [GitHub](https://github.com/Erpriex/AmongRoles)
+<br><br>
+
+> [GitHub](https://github.com/Erpriex/AmongRoles)
