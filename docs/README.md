@@ -6,8 +6,13 @@ Cette documentation est actuellement en cours de rédaction, certaines informati
 
 <br>
 
-Cette documentation est une retranscription du wiki du mod [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) pour le jeu Among Us.<br>
+Cette documentation est une retranscription du wiki du mod [TheOtherRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) pour le jeu Among Us.
+
 Elle a pour objectif de rendre la navigation plus accessible en combinant notamment une traduction française et la version originale.
+
+<br>
+
+Documentation pour la version `4.3.1` du mod
 
 ## Sources
 
