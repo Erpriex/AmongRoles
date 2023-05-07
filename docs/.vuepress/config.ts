@@ -60,7 +60,15 @@ module.exports = {
                 text: "Neutres",
                 collapsible: true,
                 children: [
-                    
+                    { text: 'Bouffon — Jester', link: '/neutrals/jester.md' },
+                    { text: 'Incendiaire — Arsonist', link: '/neutrals/arsonist.md' },
+                    { text: 'Chacal — Jackal', link: '/neutrals/jackal.md' },
+                    { text: 'Acolyte — Sidekick', link: '/neutrals/sidekick.md' },
+                    { text: 'Vautour — Vulture', link: '/neutrals/vulture.md' },
+                    { text: 'Avocat — Lawyer', link: '/neutrals/lawyer.md' },
+                    { text: 'Procureur — Prosecutor', link: '/neutrals/prosecutor.md' },
+                    { text: 'Poursuivant — Pursuer', link: '/neutrals/pursuer.md' },
+                    { text: 'Voleur — Thief', link: '/neutrals/thief.md' },
                 ]
             },
             {

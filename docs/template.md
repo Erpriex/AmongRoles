@@ -16,7 +16,7 @@ TODO
 
 | Nom | Description |
 | -------------- | --------------------- |
-| Option 1  | Description 1 |
+| Option 1 | Description 1 |
 | Option 2 | Description 2 |
 
 <br><br>
@@ -37,5 +37,5 @@ TODO
 
 | Name | Description |
 | -------------- | --------------------- |
-| Option 1  | Description 1 |
+| Option 1 | Description 1 |
 | Option 2 | Description 2 |
