@@ -1,7 +1,7 @@
 # AmongRoles
 
 ::: warning Work in progresss...
-Cette documentation est actuellement en cours de rédaction, des rôles sont manquantes.
+Cette documentation est actuellement en cours de rédaction, des rôles sont manquants.
 :::
 
 <br>
