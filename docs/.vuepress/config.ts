@@ -61,6 +61,10 @@ module.exports = {
                     { text: 'Detective', link: '/crewmates/detective.md' },
                     { text: 'Maître du Temps — Time Master', link: '/crewmates/time-master.md' },
                     { text: 'Médecin — Medic', link: '/crewmates/medic.md' },
+                    { text: 'Swapeur — Swapper', link: '/crewmates/swapper.md' },
+                    { text: 'Voyant — Seer', link: '/crewmates/seer.md' },
+                    { text: 'Hacker', link: '/crewmates/hacker.md' },
+                    { text: 'Pisteur — Tracker', link: '/crewmates/tracker.md' },
                 ]
             },
             {
