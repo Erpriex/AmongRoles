@@ -65,6 +65,8 @@ module.exports = {
                     { text: 'Voyant — Seer', link: '/crewmates/seer.md' },
                     { text: 'Hacker', link: '/crewmates/hacker.md' },
                     { text: 'Pisteur — Tracker', link: '/crewmates/tracker.md' },
+                    { text: 'Mouchard — Snitch', link: '/crewmates/snitch.md' },
+                    { text: 'Espion — Spy', link: '/crewmates/spy.md' },
                 ]
             },
             {
