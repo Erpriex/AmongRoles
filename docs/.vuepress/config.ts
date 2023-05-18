@@ -67,6 +67,9 @@ module.exports = {
                     { text: 'Pisteur — Tracker', link: '/crewmates/tracker.md' },
                     { text: 'Mouchard — Snitch', link: '/crewmates/snitch.md' },
                     { text: 'Espion — Spy', link: '/crewmates/spy.md' },
+                    { text: 'Dieu du Portail — Portalmaker', link: '/crewmates/portalmaker.md' },
+                    { text: 'Agent de Sécurité — Security Guard', link: '/crewmates/security-guard.md' },
+                    { text: 'Medium', link: '/crewmates/medium.md' },
                 ]
             },
             {
